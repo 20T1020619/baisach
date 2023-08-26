@@ -1,0 +1,94 @@
+[Editors]
+<<<<<<< HEAD
+Order=2,0,9,3,4,7,6,5,1,8,10
+Focused=6
+[Editor_0]
+CursorCol=12
+CursorRow=15
+TopLine=6
+LeftChar=1
+[Editor_1]
+CursorCol=46
+CursorRow=50
+TopLine=37
+LeftChar=1
+[Editor_2]
+CursorCol=29
+CursorRow=141
+TopLine=190
+=======
+Order=0,4,2,7,1
+Focused=1
+LeftChar=1
+[Editor_0]
+CursorCol=4
+CursorRow=21
+TopLine=4
+LeftChar=1
+[Editor_1]
+<<<<<<< HEAD
+CursorCol=20
+CursorRow=35
+TopLine=23
+=======
+CursorCol=24
+CursorRow=35
+TopLine=19
+>>>>>>> 776ff1f... Add sinh vien
+LeftChar=1
+[Editor_2]
+CursorCol=26
+CursorRow=40
+TopLine=1
+>>>>>>> temp
+LeftChar=1
+[Editor_3]
+CursorCol=40
+CursorRow=664
+TopLine=406
+LeftChar=1
+[Editor_4]
+<<<<<<< HEAD
+CursorCol=13
+CursorRow=359
+TopLine=286
+=======
+CursorCol=4
+CursorRow=95
+TopLine=86
+>>>>>>> temp
+LeftChar=1
+[Editor_5]
+CursorCol=3
+CursorRow=343
+TopLine=544
+LeftChar=1
+[Editor_6]
+CursorCol=17
+CursorRow=2377
+TopLine=2377
+LeftChar=1
+[Editor_7]
+CursorCol=4
+CursorRow=204
+<<<<<<< HEAD
+TopLine=809
+=======
+TopLine=20
+>>>>>>> temp
+LeftChar=1
+[Editor_8]
+CursorCol=20
+CursorRow=404
+TopLine=571
+LeftChar=1
+[Editor_9]
+CursorCol=7
+CursorRow=233
+TopLine=239
+LeftChar=1
+[Editor_10]
+CursorCol=28
+CursorRow=12
+TopLine=1
+LeftChar=1
